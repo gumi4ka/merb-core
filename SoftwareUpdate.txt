@@ -1,1 +1,1 @@
-Fix TypeError in check_cfg() (#9245)
+Embed Heatmaps YouTube video in Ultralytics Docs (#7129)
