@@ -1,1 +1,1 @@
-Remove OpenVINO INT8 RTDETRDecoder ops (#8219)
+Add https://youtu.be/OpWpBI35A5Y to inference-api Docs (#8717)
